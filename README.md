@@ -25,11 +25,11 @@ Just replace the value of "_tsid" with your Trusted Shops ID
 ```
 
 ##Different variants
-You can find an overview of different Trustbadge version [here](http://www.trustedshops.eu/merchants/integration/trustbadge.html)
+You can find an overview of different Trustbadge versions [here](http://www.trustedshops.eu/merchants/integration/trustbadge.html).
 
 ##Can i preview how would it look on my page?
 
-To view the trustbadge directly in your shop visit [this](http://www.trustedshops.eu/merchants/integration/trustbadge.html) page and enter the url of your webpage.
+To view the trustbadge directly in your shop visit [this page](http://www.trustedshops.eu/merchants/integration/trustbadge.html) and enter the url of your webpage.
 
 
 License
