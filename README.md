@@ -29,7 +29,7 @@ You can find an overview of different Trustbadge version [here](http://www.trust
 
 ##Can i preview how would it look on my page?
 
-To view the trustbadge directly in your shop visit [this](http://integr.trustedshops.eu/merchants/integration/trustbadge.html) page and enter the url of your webpage.
+To view the trustbadge directly in your shop visit [this](http://www.trustedshops.eu/merchants/integration/trustbadge.html) page and enter the url of your webpage.
 
 
 License
