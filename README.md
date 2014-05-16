@@ -21,7 +21,7 @@ Just replace the value of "_tsid" with your Trusted Shops ID
     __ts.parentNode.insertBefore(_ts, __ts);
     })();
 </script>
-<noscript><a href="https://www.trustedshops.de/shop/certificate.php?shop_id=XA2A8D35838AF5F63E5EB0E05847B1CB8"><img title="Klicken Sie auf das Gütesiegel, um die Gültigkeit zu prüfen!" src="//widgets.trustedshops.com/images/badge.png" style="position:fixed;bottom:0;right:0;" /></a></noscript>
+
 ```
 
 ##Different variants
