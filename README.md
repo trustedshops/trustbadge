@@ -21,7 +21,6 @@ Just replace the value of "_tsid" with your Trusted Shops ID
     __ts.parentNode.insertBefore(_ts, __ts);
     })();
 </script>
-
 ```
 
 ##Different variants
